@@ -19,7 +19,7 @@ Deploy the trained model for real-time predictions
 Maintain a clean, modular, and scalable architecture
 
 Demonstrate applied machine learning in a healthcare-oriented use case
-
+````
 🚀 Key Features
 
 ✔ Machine learning–based heart disease risk prediction
@@ -28,7 +28,7 @@ Demonstrate applied machine learning in a healthcare-oriented use case
 ✔ Clear and user-friendly prediction report
 ✔ Modular preprocessing and training pipeline
 ✔ Reusable pre-trained model
-
+````
 🧠 Machine Learning Approach
 
 The project follows a supervised learning classification pipeline.
@@ -62,7 +62,7 @@ User inputs are preprocessed and passed to the trained model
 Model outputs a risk classification (Low Risk / High Risk)
 
 This pipeline ensures consistency, reliability, and reproducibility.
-
+````
 🏗️ Project Structure
 heart_disease_prediction/
 │
@@ -93,7 +93,7 @@ heart_disease_prediction/
 │
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project documentation
-
+````
 🔄 Application Workflow
 
 User enters patient clinical details
