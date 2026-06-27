@@ -1,6 +1,6 @@
 <div align="center">
 
-# ❤️ Machine Learning–Driven Cardiovascular Risk Assessment Using Patient Clinical Records
+# ❤️ Machine Learning–Driven Cardiovascular Risk Assessment Using Patient Clinical Record
 
 ### A Machine Learning–Based Clinical Risk Prediction Web Application
 
